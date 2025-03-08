@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>About</h2>
-International FME-head - Welcome to my small piece of the internet where I push the bounds of FME while staying within the guardrails of Version Control.
+International FMEhead<BR>Welcome to my small piece of the internet where I push the bounds of FME while staying within the guardrails of Version Control.
 
 <h2>Contact</h2>
 <div id="badges">
